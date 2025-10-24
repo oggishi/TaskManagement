@@ -1,6 +1,6 @@
 # TaskManagement
 
-Professional Task Management system — a C# application designed to run against SQL Server for task, project, and user management. This single README combines a concise professional overview with a Functions & Tasks backlog so developers and maintainers can quickly get started, update the DAL (DatabaseAccess), and drive development.
+Task Management system — a C# application designed to run against SQL Server for task, project, and user management. This single README combines a concise professional overview with a Functions & Tasks backlog so developers and maintainers can quickly get started, update the DAL (DatabaseAccess), and drive development.
 
 [![Language](https://img.shields.io/badge/Language-C%23-blue)]()
 [![DB](https://img.shields.io/badge/Database-SQL%20Server-brightgreen)]()
@@ -8,7 +8,7 @@ Professional Task Management system — a C# application designed to run against
 
 ---
 
-## Professional overview
+## Overview
 
 TaskManagement centralizes project and task tracking for small teams and internal tooling. The codebase (primarily C# with some T-SQL) is intended to run with Microsoft SQL Server. The repository includes a Data Access Layer (DAL) where the connection string lives (see DatabaseAccess file, line ~15) — update that to your machine's SQL Server name to connect.
 
